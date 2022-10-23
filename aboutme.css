@@ -1,0 +1,52 @@
+body{
+  background-image: url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000");
+}
+h1{
+  color: rebeccapurple;
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: black;
+}
+h3{
+  color: deeppink;
+  text-align: center;
+}
+.no{
+ border: 10px;
+  border-style: double;
+  border-color: black;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h2{
+  color: black;
+  text-shadow: 1px -2px white;
+  font-size: 24px; 
+}
+
+.no1{
+  float: left;
+  width: 300px;
+  height: 300px;
+  margin: 10px;
+  border: 10px;
+  border-style: double;
+  border-color: black;
+}
+
+p{
+  text-align: left;
+  font-size: 20px;
+  font-family: cursive;
+}
+hr{
+  width: 100%;
+}
+h4{
+  font-size: 20px;
+}
+ul{
+  font-family: cursive;
+  
+}
